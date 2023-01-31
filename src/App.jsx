@@ -7,7 +7,7 @@ const App = () => {
           <div className="user">
             <img src="./images/foto.PNG" className="foto" alt="" />
             <h3>Jose Marcano</h3>
-            <p>Devloper Frontend/Backend</p>
+            <p>Developer Frontend/Backend</p>
           </div>
           <div className="links">
             <div className="link">
